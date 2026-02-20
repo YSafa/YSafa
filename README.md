@@ -1,18 +1,17 @@
-<div align="center">
+# Hi there, I'm Yiğit Safa 👋
 
-# Yiğit Safa Yıldırım
-
-**Computer Engineering Student · Kadir Has University**
-
-</div>
+### Computer Engineering Student · Kadir Has University
 
 ---
 
-### About Me
-
-I am a 3rd-year Computer Engineering student at Kadir Has University. While building a strong foundation in software engineering, my core passion lies in hardware-software interaction, Computer Organization and Architecture, and Logic Circuit Design.
+- 🎓 3rd-year CS student on a at Kadir Has University, Istanbul
+- 🔭 I'm currently working on **Java desktop apps, Unity games, and digital logic design**
+- 🌱 I'm always looking to grow — whether it's a new framework, algorithm, or design pattern
+- 💬 Feel free to reach out if you want to collaborate or have any ideas
+- 📫 How to reach me: **ysafayildirim@gmail.com**
 
 ---
+
 
 ### 🔗 Connect with me
 
